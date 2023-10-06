@@ -1,4 +1,4 @@
-Excel Data Visualization Project - MySQL Data Analysis
+Excel Data Visualization Project - MySQL Data Analysis 
 
 This project is focused on extracting data from a MySQL database, performing various data manipulation tasks using SQL, and visualizing the results in Excel. The project involves using SQL joins, Common Table Expressions (CTE), subqueries, date functions, CASE statements, and various aggregate functions to analyze and transform the data. The final step involves importing the extracted data into Excel to create Pivot tables and Pivot charts for visualization.
 
